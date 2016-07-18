@@ -47,6 +47,6 @@ Temporary Items
 *.xls*
 *.doc*
 *.rmd
-*.html
+#*.html
 *.png
 ##### others #####
